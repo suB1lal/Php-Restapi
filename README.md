@@ -1,5 +1,5 @@
 # Php-Restapi
- php respapi projem
+ php restapi projem
 
 ![resim](image/read.png)
 ![resim](image/update.png)
